@@ -1,1 +1,1 @@
-This is version control two of my git repositry
+This is version control two of my git repositry to github
